@@ -1,7 +1,7 @@
 FROM debian
 
-LABEL description "An debian image prepared to be configure with awscli"
-LABEL department "developement"
+LABEL description "An debian image prepared to be configured with awscli"
+LABEL department "development"
 
 WORKDIR /root
 
